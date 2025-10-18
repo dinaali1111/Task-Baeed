@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+![Final Result](./public/result.png)
