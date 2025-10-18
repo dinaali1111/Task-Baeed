@@ -71,4 +71,4 @@ export default defineConfig([
   },
 ])
 ```
-![Final Result](my-react-app\public\result.png)
+![Final Result](./public/result.png)
